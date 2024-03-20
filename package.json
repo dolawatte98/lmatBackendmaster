@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dotenv": "^14.2.0",
+    "firebase": "^9.6.1",
+    "firebase-admin": "^10.0.1",
+    "firebase-functions": "^3.16.0",
+    "mssql": "^7.3.0"
+  }
+}
